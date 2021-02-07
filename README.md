@@ -13,3 +13,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunlapww&theme=prussian" height="200" width="300"/>
     </a>
   </div>
+  <p align="center">
+   <a href="https://www.linkedin.com/in/willwdunlap/"><img height="30" src="https://github.com/dunlapww/dunlapww/icons/linkedin2.png"></a>
+  </p>
+
