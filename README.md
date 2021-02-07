@@ -14,6 +14,6 @@
     </a>
   </div>
   <p align="center">
-   <a href="https://www.linkedin.com/in/willwdunlap/"><img height="30" src="https://github.com/dunlapww/dunlapww/icons/linkedin2.png"></a>
+   <a href="https://www.linkedin.com/in/willwdunlap/"><img height="30" src="https://github.com/dunlapww/dunlapww/blob/main/icons/linkedin2.png"></a>
   </p>
 
