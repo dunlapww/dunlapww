@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there!  I'm Will, I'm currently finishing up the backend software development program at the Turing School in Denver.  My work has primarily been in Ruby/Rails, but I've recently been dabbling in Javascript and Python.  Checkout some of my work!
 
 <!--
 **dunlapww/dunlapww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
