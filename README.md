@@ -3,15 +3,6 @@
 <!--
 **dunlapww/dunlapww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--START_SECTION:waka-->
-```text
-C++        19 hrs 2 mins   ██████████████████████░░░   87.77 % 
-HTML       1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-YAML       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Markdown   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-TeX        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-```
-<!--END_SECTION:waka-->
 
 Here are some ideas to get you started:
 
