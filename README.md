@@ -13,5 +13,3 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunlapww&theme=prussian" height="200" width="300"/>
     </a>
   </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
