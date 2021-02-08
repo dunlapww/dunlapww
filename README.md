@@ -1,7 +1,11 @@
 <img align="center" src="https://github.com/dunlapww/dunlapww/blob/main/icons/mtn_landscape_welcome.png" width="1000"/>
 
 I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development.  
-<a align="center" href="https://alumni.turing.io/alumni/will-dunlap">Checkout my student portfolio!</a>
+
+<div align="center">
+<a href="https://alumni.turing.io/alumni/will-dunlap">Checkout my student portfolio!</a>
+</div>
+
 A little about me:
 - 💻 &nbsp;I’m currently working on a school project to implement GraphQL in an ExpressJS app.
 - 🤓  &nbsp;On the side I'm learning Python and some AWS.
