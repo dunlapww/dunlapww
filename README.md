@@ -18,5 +18,6 @@
   <p align="center">
    <a href="mailto:dunlapww@gmail.com"><img height="30" src="https://github.com/dunlapww/dunlapww/blob/main/icons/email_square.png"></a>
   <a href="https://www.linkedin.com/in/willwdunlap/"><img height="30" src="https://github.com/dunlapww/dunlapww/blob/main/icons/new_linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/willwdunlap/"><img height="30" src="https://github.com/dunlapww/dunlapww/blob/main/icons/turing-logo-cr.png"></a>
   </p>
 
