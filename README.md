@@ -8,7 +8,7 @@
 <!-- [![Will's github stats](https://github-readme-stats.vercel.app/api?username=dunlapww)](https://github.com/dunlapww/github-readme-stats) -->
 
   <div align="center">
-    <ul style="inline" width="500">
+    <ul display="inline" width="500">
       <li>hello</li>
       <li>my name is will</li>
     </ul
