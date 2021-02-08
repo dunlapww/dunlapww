@@ -7,8 +7,7 @@ I'm a backend engineering student at the [Turing School](https://turing.io/) in 
 - 🤓  &nbsp;On the side I'm learning Python and some AWS.
 - 🤔  &nbsp;For my next project, an app where gardeners can exchange excess produce and gardenting tips
 - 💬  &nbsp;Ask me about Ruby/Rails development!
-- 😄  &nbsp;Pronouns: he/him
-- 🧗 &nbsp;Away from the computer: I love backpacking, climbing, cycling, or pretty much any adventure that will get me outside!
+- 🧗  &nbsp;Away from the computer: I love backpacking, climbing, cycling, and reading!
 
   
   <div align="center">
