@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/dunlapww/dunlapww/blob/main/icons/mtn_landscape_welcome.png" width="1000"/>
+<img align="center" src="https://github.com/dunlapww/dunlapww/blob/main/icons/small_will_mtn.png" width="1000"/>
 
 I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development.  
 
