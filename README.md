@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/dunlapww/dunlapww/blob/main/icons/mtn_landscape_welcome.png" width="1000"/>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunlapww&theme=prussian" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
 
 ### Hi, I'm Will 👋
@@ -12,30 +14,6 @@ I'm Will! I'm a backend engineering student at the [Turing School](https://turin
 - 💬  &nbsp;Ask me about Ruby/Rails development!
 - 😄  &nbsp;Pronouns: he/him
 - 🧗 &nbsp;Away from the computer: I love backpacking, climbing, cycling, or pretty much any adventure that will get me outside!
-
-<img align="center" src="https://github.com/dunlapww/dunlapww/blob/main/icons/mtn_landscape_welcome.png" width="1000"/>
-
-### I'm Will! I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development.
-
-<div align="right">
-    <a href="https://github.com/dunlapww/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunlapww&theme=prussian" height="200" width="300"/>
-    </a>
-</div>
-
-- <img display="inline" src="https://github.com/dunlapww/dunlapww/blob/main/icons/turing_icon.png" height="30"> &nbsp; Checkout my student portfolio [here](https://alumni.turing.io/alumni/will-dunlap)
-- 📫  &nbsp;reach me at dunlapww@gmail.com or on [linkedin](https://www.linkedin.com/in/willwdunlap/)
-- 💻 &nbsp;I’m currently working on a school project to implement GraphQL in an ExpressJS app.
-- 🤓  &nbsp;On the side I'm learning Python and some AWS.
-- 🤔  &nbsp;For my next project, an app where gardeners can exchange excess produce and gardenting tips
-- 💬  &nbsp;Ask me about Ruby/Rails development!
-- 😄  &nbsp;Pronouns: he/him
-- 🧗 &nbsp;Away from the computer: I love backpacking, climbing, cycling, or pretty much any adventure that will get me outside!
-
-
-
-## A little about me
-
 
   
   <div align="center">
