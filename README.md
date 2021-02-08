@@ -8,12 +8,10 @@
 <!-- [![Will's github stats](https://github-readme-stats.vercel.app/api?username=dunlapww)](https://github.com/dunlapww/github-readme-stats) -->
 
   <div align="center">
-  <p>
     <ul>
       <li>hello</li>
       <li>my name is will</li>
     </ul
-  </p>
     <a href="https://github.com/dunlapww/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=dunlapww&show_icons=true&theme=prussian" height="200" width="500"/>
     </a>
