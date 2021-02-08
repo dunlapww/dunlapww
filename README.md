@@ -2,9 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunlapww&theme=prussian" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
 
-### Hi, I'm Will 👋
-
-I'm Will! I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development. 
+I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development. 
 
 - <img display="inline" src="https://github.com/dunlapww/dunlapww/blob/main/icons/turing_icon.png" height="30"> &nbsp; Checkout my student portfolio [here](https://alumni.turing.io/alumni/will-dunlap)
 - 📫  &nbsp;reach me at dunlapww@gmail.com or on [linkedin](https://www.linkedin.com/in/willwdunlap/)
