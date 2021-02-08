@@ -1,3 +1,15 @@
+<head>
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green; 
+}
+</style>
+</head>
+
 ### Hey there!  I'm Will, I'm currently finishing up the backend software development program at the Turing School in Denver.  My work has primarily been in Ruby/Rails, but I've recently been dabbling in Javascript and Python.  Checkout some of my work!
 
 <!--
