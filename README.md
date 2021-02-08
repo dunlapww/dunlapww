@@ -3,14 +3,14 @@
 I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development.  
 
 <div align="center">
-<a href="https://alumni.turing.io/alumni/will-dunlap">Checkout my student portfolio!</a>
+<a font-size:30px href="https://alumni.turing.io/alumni/will-dunlap">Checkout my student portfolio!</a>
 </div>
 
 A little about me:
-- 💻 &nbsp;I’m currently working on a school project to implement GraphQL in an ExpressJS app.
-- 🤓  &nbsp;On the side I'm learning Python and some AWS.
-- 🤔  &nbsp;For my next project, an app where gardeners can exchange excess produce and gardenting tips
-- 💬  &nbsp;Ask me about Ruby/Rails development!
+- 💻 &nbsp;Currently working on: a school project to implement GraphQL in an ExpressJS app.
+- 🤓  &nbsp;On the side: I'm learning Python and some AWS.
+- 🤔  &nbsp;For my next project: an app where gardeners can exchange excess produce and gardenting tips
+- 💬  &nbsp;Ask me about: Ruby/Rails development!
 - 🧗  &nbsp;Away from the computer: I love backpacking, climbing, cycling, and reading!
 - 📫  &nbsp;reach me at dunlapww@gmail.com
 
