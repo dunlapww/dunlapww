@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/dunlapww/dunlapww/blob/main/icons/mountainlandscape.png" width="1000"/>
+<img align="center" src="https://github.com/dunlapww/dunlapww/blob/main/icons/mtn_landscape_welcome.png" width="1000"/>
 
 ### Hey there!  I'm Will, I'm currently finishing up the backend software development program at the Turing School in Denver.  My work has primarily been in Ruby/Rails, but I've recently been dabbling in Javascript and Python.  Checkout some of my work!
 
