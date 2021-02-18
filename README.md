@@ -7,6 +7,8 @@ I'm a backend engineering student at the [Turing School](https://turing.io/) in 
  <font size="6"> This is my text number 6</font>
 </div>
 
+ <font size="6"> This is my text number 6</font>
+
 A little about me:
 - 💻 &nbsp;Currently working on: a school project to implement GraphQL in an ExpressJS app.
 - 🤓  &nbsp;On the side: I'm learning Python and some AWS.
