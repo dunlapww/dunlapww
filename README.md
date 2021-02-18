@@ -3,7 +3,7 @@
 I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development.  
 
 <div align="center">
-<a font-size=24px href="https://alumni.turing.io/alumni/will-dunlap">Checkout my student portfolio!</a>
+<a font-size="1" href="https://alumni.turing.io/alumni/will-dunlap">Checkout my student portfolio!</a>
 </div>
 
 A little about me:
