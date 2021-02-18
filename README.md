@@ -4,6 +4,7 @@ I'm a backend engineering student at the [Turing School](https://turing.io/) in 
 
 <div align="center">
 <a href="https://alumni.turing.io/alumni/will-dunlap"><font size="6">Checkout my student portfolio!</font></a>
+ <font size="6"> This is my text number 6</font>
 </div>
 
 A little about me:
