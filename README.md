@@ -6,6 +6,8 @@ I'm a backend engineering student at the [Turing School](https://turing.io/) in 
 <a href="https://alumni.turing.io/alumni/will-dunlap">### Checkout my student portfolio!</a>
 </div>
 
+## hello
+
 A little about me:
 - 💻 &nbsp;Currently working on: a school project to implement GraphQL in an ExpressJS app.
 - 🤓  &nbsp;On the side: I'm learning Python and some AWS.
