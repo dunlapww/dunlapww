@@ -3,11 +3,8 @@
 I'm a backend engineering student at the [Turing School](https://turing.io/) in Denver and excited about my transition into software development.  
 
 <div align="center">
-<a href="https://alumni.turing.io/alumni/will-dunlap"><font size="6">Checkout my student portfolio!</font></a>
- <font size="6"> This is my text number 6</font>
+<a href="https://alumni.turing.io/alumni/will-dunlap">### Checkout my student portfolio!</a>
 </div>
-
- <font size="6"> This is my text number 6</font>
 
 A little about me:
 - 💻 &nbsp;Currently working on: a school project to implement GraphQL in an ExpressJS app.
